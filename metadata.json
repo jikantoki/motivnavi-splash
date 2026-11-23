@@ -1,0 +1,32 @@
+{
+  "KPackageStructure": "Plasma/LookAndFeel",
+  "KPlugin": {
+    "Authors": [
+      {
+        "Email": "info@enoki.xyz",
+        "Name": "エノキ電気"
+      },
+      {
+        "Email": "dancpontes@tutamail.com",
+        "Name": "dancp"
+      },
+      {
+        "Email": "maire.nunez@gmail.com",
+        "Name": "mrmaire"
+      },
+      {
+        "Email": "noveanrer@gmail.com",
+        "Name": "kraken-afk"
+      }
+    ],
+    "Category": "",
+    "Description": "Motivnavi Splash",
+    "Id": "motivnavisplash",
+    "License": "GPLv3",
+    "Name": "motivnavisplash",
+    "Website": "https://motivnavi.enoki.xyz"
+  },
+  "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+  "X-Plasma-APIVersion": "2",
+  "X-Plasma-MainScript": "default"
+}
